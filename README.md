@@ -12,9 +12,10 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Evgenii Boznyakov
-* Codeship : https://app.codeship.com/projects/38baa38a-f2cd-4761-a778-ea42034c5d73/status?branch=main
+* Codeship : ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/38baa38a-f2cd-4761-a778-ea42034c5d73/status?branch=main)
 
 
+ 
 
 
 ### How to start?  ###
