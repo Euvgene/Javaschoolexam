@@ -13,8 +13,7 @@ public class PyramidBuilder {
      * @throws {@link CannotBuildPyramidException} if the pyramid cannot be build with given input
      */
     public int[][] buildPyramid(List<Integer> inputNumbers) {
-        // TODO : Implement your solution here
-        return new int[0][0];
+        return new Pyramid().buildPyramid(inputNumbers);
     }
 
 

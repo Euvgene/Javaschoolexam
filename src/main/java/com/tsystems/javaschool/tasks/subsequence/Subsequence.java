@@ -13,8 +13,7 @@ public class Subsequence {
      * @return <code>true</code> if possible, otherwise <code>false</code>
      */
     @SuppressWarnings("rawtypes")
-    public boolean find(List x, List y) {
-        // TODO: Implement the logic here
-        return false;
+    public boolean find(List<Object> x, List<Object> y) {
+        return new IsPossible().find(x,y);
     }
 }
