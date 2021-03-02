@@ -1,5 +1,7 @@
 package com.tsystems.javaschool.tasks.calculator;
 
+import com.tsystems.javaschool.tasks.calculator.algorithm.SimpleCalculator;
+
 public class Calculator {
 
     /**
@@ -11,8 +13,8 @@ public class Calculator {
      * @return string value containing result of evaluation or null if statement is invalid
      */
     public String evaluate(String statement) {
-        // TODO: Implement the logic here
-        return "";
+
+        return new SimpleCalculator().evaluate(statement);
     }
 
 }
